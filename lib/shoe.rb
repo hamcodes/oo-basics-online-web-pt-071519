@@ -22,6 +22,13 @@ end
     @size
   end
   
+    def material=(material)
+    @color = color
+end
+ 
+  def color
+    @color
+  end
   
   
   
