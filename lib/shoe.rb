@@ -13,4 +13,9 @@ end
   def color
     @color
   end
+  
+  
+  
+  
+  
 end    
