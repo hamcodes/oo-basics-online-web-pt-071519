@@ -27,7 +27,7 @@ end
 end
  
   def material
-    @color
+    @material
   end
   
   
