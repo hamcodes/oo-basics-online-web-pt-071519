@@ -38,5 +38,7 @@ end
     @condition
   end
   
+  def Cobble
+end
   
 end    
