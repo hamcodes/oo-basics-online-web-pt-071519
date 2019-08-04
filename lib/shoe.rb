@@ -39,6 +39,7 @@ end
   end
   
   def Cobble
+    @cobble
 end
   
 end    
