@@ -38,12 +38,7 @@ end
     @condition
   end
 
-    def cobble=(cobble)
-    @cobble = cobble
-end
- 
-  def cobble
-    @cobble
-  end
+def cobble
+  
   
 end    
