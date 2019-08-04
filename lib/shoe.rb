@@ -1,9 +1,10 @@
-  def initialize(title)
-    @title = title
+class Shoe
+  def initialize(brand)
+    @brand = brand
   end
   
-  def title
-    @title
+  def brand
+    @brand
 end
  
   def author=(author)
