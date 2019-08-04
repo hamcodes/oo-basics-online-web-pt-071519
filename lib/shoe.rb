@@ -9,8 +9,5 @@ end
 
   def color
 
-# #     @page_count
-# #   end
-# end
     
 end
