@@ -14,4 +14,3 @@ end
     @color
   end
 end    
-end
