@@ -8,6 +8,9 @@ class Shoe
 end
 
   def color
-end
+
+# #     @page_count
+# #   end
+# end
     
 end
