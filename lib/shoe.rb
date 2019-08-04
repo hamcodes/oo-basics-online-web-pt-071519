@@ -6,8 +6,12 @@ class Shoe
   def brand
     @brand
 end
-
-  def color
-    @color
+  def author=(author)
+    @author = author
+end
+ 
+  def author
+    @author
+  end
 end    
 end
