@@ -37,9 +37,13 @@ end
   def condition
     @condition
   end
-  
-  def Cobble
-    @cobble
+
+    def cobble=(cobble)
+    @cobble = cobble
 end
+ 
+  def cobble
+    @cobble
+  end
   
 end    
