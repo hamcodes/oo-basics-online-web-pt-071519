@@ -23,10 +23,10 @@ end
   end
   
     def material=(material)
-    @color = color
+    @material = material
 end
  
-  def color
+  def material
     @color
   end
   
