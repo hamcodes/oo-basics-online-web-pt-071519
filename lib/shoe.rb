@@ -57,4 +57,10 @@ class Shoe
     puts "Flipping the page...wow, you read fast!"
   end
  
+  def cobble
+  puts "Your shoe is as good as new!"
+      @condition = "new"
+  end
+end
+ 
 end
