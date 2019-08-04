@@ -1,11 +1,15 @@
-class Shoe
-    def initialize(brand)
-    @brand = brand
+  def initialize(title)
+    @title = title
   end
-    def brand
-      @brand
-    end
-    
-    
-      
+  
+  def title
+    @title
 end
+ 
+  def author=(author)
+    @author = author
+end
+ 
+  def author
+    @author
+  end
